@@ -11,7 +11,7 @@ Interests:
   <li>Crypto and blockchain development!</li>
   <li>Finances & Tech</li>
   <li>Startups</li>
-  <li>Creative and disruptive new projects!</li>
+  <li>Creative and disruptive new projects</li>
 </ul>
 
 Fun facts about me:
