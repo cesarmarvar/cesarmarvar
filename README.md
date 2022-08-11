@@ -1,17 +1,10 @@
 <h1>Hi there!</h1>
 
-I'm a full stack web developer from Peru. This year I decided to jump into technology industry through programming, since I have always been interested and passionated about it and how it impacts society worldwide. I'm always looking to put my skills into practice, so I can write a more efficient and clean code everytime.
+I'm a full stack web developer from Peru. This year I decided to jump into the tech industry through programming, since I have always been interested and passionated about it and how it impacts our society worldwide.
+
+I'm always looking to put my skills into practice, so I can write a more efficient and clean code everytime.
 
 I'm a believer of following your gut and putting enough effort to make it work, so hopefuly you can witness my progress through this profile :)
-
-
-Fun facts about me:
-<ul>
-  <li>I enjoy surfing and rock climbing</li>
-  <li>I'm a licensed attorney in my country</li>
-  <li>I make some kickass deserts!</li>
-  <li>I love dogs</li>
-</ul>
 
 Interests:
 <ul>
@@ -19,6 +12,14 @@ Interests:
   <li>Finances & Tech</li>
   <li>Startups</li>
   <li>Creative and disruptive new projects!</li>
+</ul>
+
+Fun facts about me:
+<ul>
+  <li>I enjoy surfing and rock climbing</li>
+  <li>I'm a licensed attorney in my country</li>
+  <li>I make some kickass deserts!</li>
+  <li>I love dogs</li>
 </ul>
 
 <div id="header" align="center">
