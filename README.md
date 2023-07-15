@@ -41,4 +41,6 @@ Fun facts about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Github" alt="Github" width="40" height="40"/>
+  
 </div>
