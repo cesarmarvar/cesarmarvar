@@ -4,8 +4,6 @@ I'm a full stack web developer from Peru. This year I decided to jump into the t
 
 I'm always looking to put my skills into practice, so I can write a more efficient and clean code everytime.
 
-I'm a believer of following your gut and putting enough effort to make it work, so hopefully you can witness my progress through this profile :)
-
 Interests:
 <ul>
   <li>Crypto and blockchain development</li>
