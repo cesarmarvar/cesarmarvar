@@ -1,4 +1,4 @@
-<h1>Hi there!</h1>
+<h1>Welcome</h1>
 
 I'm a full stack web developer from Peru. This year I decided to jump into the tech industry through programming, since I have always been interested and passionated about it and how it impacts our society worldwide.
 
@@ -8,18 +8,9 @@ I'm a believer of following your gut and putting enough effort to make it work, 
 
 Interests:
 <ul>
-  <li>Crypto and blockchain development!</li>
+  <li>Crypto and blockchain development</li>
   <li>Finances & Tech</li>
   <li>Startups</li>
-  <li>Creative and disruptive new projects</li>
-</ul>
-
-Fun facts about me:
-<ul>
-  <li>I enjoy surfing and rock climbing</li>
-  <li>I'm a licensed attorney in my country</li>
-  <li>I make some kickass deserts!</li>
-  <li>I love dogs</li>
 </ul>
 
 <div id="header" align="center">
